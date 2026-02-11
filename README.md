@@ -1,52 +1,78 @@
 <h1 align="center">Hi 👋, I'm Yurii Boiko</h1>
-<h3 align="center">Software engineer</h3> 
+<h3 align="center">Middle+ Frontend Engineer | React • Next.js • TypeScript</h3>
 
-[![Yurii Boiko profile views](https://u8views.com/api/v1/github/profiles/49165350/views/day-week-month-total-count.svg)](https://u8views.com/github/Yura935)
+<p align="center">
+  Passionate about building high-performance, interactive web applications.<br>
+  Currently working at Solvexus — creating smooth, scalable user interfaces for complex business solutions.
+</p>
 
-- 🌱 I am currently learning and practising **Next.js** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/yurii-boiko-47a1111a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/Yura935">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://dou.ua/users/yurii-boiko-1/topics/">
+    <img src="https://img.shields.io/badge/DOU_Profile-orange?style=for-the-badge" alt="DOU"/>
+  </a>
+  <a href="mailto:boyko.yuriy16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- 👯 I’m working at **Solvexus** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
+<p align="center">
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=Yura935&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Yurii's GitHub stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yura935&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="25" height="25" /> Ask me about **my technology stack if you're interested in hiring me** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yura935&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-- 📫 How to reach me: **boyko.yuriy16@gmail.com**
+### 🚀 Currently / 2026 Focus
+- Building modern apps with **Next.js App Router**, Server Components & Server Actions
+- Exploring performance optimization, accessibility and advanced state management patterns
+- Open to interesting open-source contributions and challenging projects
 
-- ⚡ Fun fact:  
-  **I’m interested in IT technologies 💻, Ukrainian history 🇺🇦, computer games 🎮, sports 🏓 🏃 🚶 🎳, mountains ⛰ ** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
+### 🌐 Languages
+- 🇺🇦 Ukrainian — Native  
+- 🇬🇧 English — Intermediate (B1/B2, confident technical communication)  
+- 🇵🇱 Polish — Elementary
+
+### 🛠️ My Tech Stack
+
+**Core Frontend (Daily Use)**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite,angular" />
+</p>
+
+**Other Frontend & Styling**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,scss,materialui,bootstrap" />
+</p>
+
+**Backend & Tools**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,docker,aws,azure,firebase" />
+</p>
+
+**Development & Productivity**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,bash,npm,yarn,postman,figma,ai,regex" />
+</p>
+
+### 📫 How to reach me
+- Email: boyko.yuriy16@gmail.com  
+- LinkedIn: [linkedin.com/in/yurii-boiko-47a1111a9](https://www.linkedin.com/in/yurii-boiko-47a1111a9/)  
+- Telegram: [@Yura935](https://t.me/Yura935)  
+- DOU: [dou.ua/users/yurii-boiko-1](https://dou.ua/users/yurii-boiko-1/topics/)
+
+### ⚡️ Fun fact
+When I'm not coding, you can find me hiking in the Carpathians, playing table tennis, exploring Ukrainian history, or diving into a good strategy game.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurii-boiko-47a1111a9/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yura935)
-[![DOU](https://img.shields.io/badge/DOU_Profile-orange?style=for-the-badge)](https://dou.ua/users/yurii-boiko-1/topics/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bender_from_ua)
-
----
-
-<h2 align="center">Languages</h2>
-
-| 🇺🇦 **Ukrainian** — Native | 🇬🇧 **English** — Intermediate |
-|---------------------------|-------------------------------|
-| 🇵🇱 **Polish** — Elementary |
-
----
-
-<h2 align="center">My skills</h2>
-
-<h3 align="left">Frontend:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,nextjs,redux,scss,materialui,tailwind,vite,angular,azure,aws,bootstrap,firebase,svg)](https://skillicons.dev)
-
-<h3 align="left">Backend:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,express,mongodb,docker)](https://skillicons.dev)
-
-<h3 align="left">Development Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vscode,bash,npm,yarn,postman,figma,ai,regex,stackoverflow)](https://skillicons.dev)
-
----
+<h3 align="center">GitHub Activity</h3>
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yura935&custom_title=Activity%20Graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
