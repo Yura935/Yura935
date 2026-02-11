@@ -49,4 +49,4 @@
 
 ---
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllaKaplia&custom_title=Activity%20Graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yura935&custom_title=Activity%20Graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
