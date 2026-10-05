@@ -70,9 +70,3 @@
 
 ### ⚡️ Fun fact
 When I'm not coding, you can find me hiking in the Carpathians, playing table tennis, exploring Ukrainian history, or diving into a good strategy game.
-
----
-
-<h3 align="center">GitHub Activity</h3>
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yura935&custom_title=Activity%20Graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
